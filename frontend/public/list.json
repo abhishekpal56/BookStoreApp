@@ -1,0 +1,118 @@
+[
+    {
+        "id" : 1,
+        "name": "Story book",
+        "title":"Lorem, ipsum dolor sit amet construction appidemic elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1735981219~exp=1735984819~hmac=22000b84665ad22e966a6a07bb9f1e1ab2afcad3236480337f6137dd710a1586&w=996"
+    },
+
+    {
+        "id" : 2,
+        "name": "Comedy",
+        "title":"Lorem, ipsum dolor sit amet construction appidemic elit.",
+        "price":200,
+        "category":"Entertenment",
+        "image":"https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1735981219~exp=1735984819~hmac=22000b84665ad22e966a6a07bb9f1e1ab2afcad3236480337f6137dd710a1586&w=996"
+    },
+
+    {
+        "id" : 3,
+        "name": "Horor book",
+        "title":"Lorem, ipsum dolor sit amet construction appidemic elit.",
+        "price":200,
+        "category":"Stories",
+        "image":"https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1735981219~exp=1735984819~hmac=22000b84665ad22e966a6a07bb9f1e1ab2afcad3236480337f6137dd710a1586&w=996"
+    },
+
+    {
+        "id" : 4,
+        "name": "Religious book",
+        "title":"Lorem, ipsum dolor sit amet construction appidemic elit.",
+        "price":30,
+        "category":"God",
+        "image":"https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1735981219~exp=1735984819~hmac=22000b84665ad22e966a6a07bb9f1e1ab2afcad3236480337f6137dd710a1586&w=996"
+    },
+
+    {
+        "id" : 5,
+        "name": "Sports book",
+        "title":"Lorem, ipsum dolor sit amet construction appidemic elit.",
+        "price":100,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1735981219~exp=1735984819~hmac=22000b84665ad22e966a6a07bb9f1e1ab2afcad3236480337f6137dd710a1586&w=996"
+    },
+
+    {
+        "id" : 6,
+        "name": "Religious book",
+        "title":"Lorem, ipsum dolor sit amet construction appidemic elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1735981219~exp=1735984819~hmac=22000b84665ad22e966a6a07bb9f1e1ab2afcad3236480337f6137dd710a1586&w=996"
+    },
+
+    {
+        "id" : 7,
+        "name": "Horor book",
+        "title":"Lorem, ipsum dolor sit amet construction appidemic elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1735981219~exp=1735984819~hmac=22000b84665ad22e966a6a07bb9f1e1ab2afcad3236480337f6137dd710a1586&w=996"
+    },
+
+    {
+        "id" : 8,
+        "name": "Story book",
+        "title":"Lorem, ipsum dolor sit amet construction appidemic elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1735981219~exp=1735984819~hmac=22000b84665ad22e966a6a07bb9f1e1ab2afcad3236480337f6137dd710a1586&w=996"
+    },
+
+    {
+        "id" : 9,
+        "name": "Fictional book",
+        "title":"Lorem, ipsum dolor sit amet construction appidemic elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1735981219~exp=1735984819~hmac=22000b84665ad22e966a6a07bb9f1e1ab2afcad3236480337f6137dd710a1586&w=996"
+    },
+
+    {
+        "id" : 10,
+        "name": "Story book",
+        "title":"Lorem, ipsum dolor sit amet construction appidemic elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1735981219~exp=1735984819~hmac=22000b84665ad22e966a6a07bb9f1e1ab2afcad3236480337f6137dd710a1586&w=996"
+    },
+
+    {
+        "id" : 11,
+        "name": "Love story",
+        "title":"Lorem, ipsum dolor sit amet construction appidemic elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1735981219~exp=1735984819~hmac=22000b84665ad22e966a6a07bb9f1e1ab2afcad3236480337f6137dd710a1586&w=996"
+    },
+
+    {
+        "id" : 12,
+        "name": "Story book",
+        "title":"Lorem, ipsum dolor sit amet construction appidemic elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1735981219~exp=1735984819~hmac=22000b84665ad22e966a6a07bb9f1e1ab2afcad3236480337f6137dd710a1586&w=996"
+    },
+
+    {
+        "id" : 13,
+        "name": "Coding book",
+        "title":"Lorem, ipsum dolor sit amet construction appidemic elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-psd/books-stack-icon-isolated-3d-render-illustration_47987-15482.jpg?t=st=1735981219~exp=1735984819~hmac=22000b84665ad22e966a6a07bb9f1e1ab2afcad3236480337f6137dd710a1586&w=996"
+    }
+]
