@@ -1,7 +1,13 @@
 import React, { useEffect, useState } from "react";
-import Login from "./Login";
+import Login from "../components/Login.jsx";
+import { useAuth } from "../context/AuthProvider";
+import Logout from "../components/Logout.jsx";
 
 const Navbar = () => {
+  const [authUser, setAuthUser] = useAuth();
+
+  // console.log("authUser", authUser);
+
   // Theme state
   const [theme, setTheme] = useState(
     localStorage.getItem("theme") ? localStorage.getItem("theme") : "light"
@@ -150,15 +156,20 @@ const Navbar = () => {
             </label>
           </div>
           {/* Login Controls */}
-          <div>
-            <a
-              className="btn btn-active btn-neutral "
-              onClick={() => document.getElementById("my_modal_3").showModal()}
-            >
-              Login
-            </a>
-            <Login />
-          </div>
+
+          {authUser ? <Logout /> :
+            <div>
+              <a
+                className="btn btn-active btn-neutral "
+                onClick={() =>
+                  document.getElementById("my_modal_3").showModal()
+                }
+              >
+                Login
+              </a>
+              <Login />
+            </div>
+}
         </div>
       </div>
     </div>
@@ -166,3 +177,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
